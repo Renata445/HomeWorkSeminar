@@ -1,0 +1,15 @@
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar\Task_second_maximum\obj\Debug\net6.0\Task_second_maximum.csproj.AssemblyReference.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar\Task_second_maximum\obj\Debug\net6.0\Task_second_maximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar\Task_second_maximum\obj\Debug\net6.0\Task_second_maximum.AssemblyInfoInputs.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar\Task_second_maximum\obj\Debug\net6.0\Task_second_maximum.AssemblyInfo.cs
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar\Task_second_maximum\obj\Debug\net6.0\Task_second_maximum.csproj.CoreCompileInputs.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar\Task_second_maximum\bin\Debug\net6.0\Task_second_maximum.exe
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar\Task_second_maximum\bin\Debug\net6.0\Task_second_maximum.deps.json
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar\Task_second_maximum\bin\Debug\net6.0\Task_second_maximum.runtimeconfig.json
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar\Task_second_maximum\bin\Debug\net6.0\Task_second_maximum.dll
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar\Task_second_maximum\bin\Debug\net6.0\Task_second_maximum.pdb
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar\Task_second_maximum\obj\Debug\net6.0\Task_second_maximum.dll
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar\Task_second_maximum\obj\Debug\net6.0\refint\Task_second_maximum.dll
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar\Task_second_maximum\obj\Debug\net6.0\Task_second_maximum.pdb
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar\Task_second_maximum\obj\Debug\net6.0\Task_second_maximum.genruntimeconfig.cache
+C:\Users\kisa0\Desktop\HomeWorkSeminar\HomeWorkSeminar\Task_second_maximum\obj\Debug\net6.0\ref\Task_second_maximum.dll
